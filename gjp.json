@@ -22,7 +22,7 @@
   "provisioners": [
     {
       "type": "shell",
-      "pause_before": "31s",
+      "pause_before": "99s",
       "script": "shell.sh"
     }
   ]
